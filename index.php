@@ -1,5 +1,5 @@
-<body bgcolor="green">
-  <h1>I love OPENSHIFT</h1>
+<body bgcolor="crimson">
+  <h1>I love DevOps</h1>
 <?php
 echo "Welcome to my first php page !!"
 ?>
