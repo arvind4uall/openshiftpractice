@@ -1,6 +1,6 @@
-<body bgcolor="crimson">
+<body bgcolor="blue">
   <h1>I love DevOps</h1>
 <?php
-echo "Welcome to my first php page !!"
+echo "Openshift training........"
 ?>
 </body>
